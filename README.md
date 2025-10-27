@@ -134,6 +134,6 @@ If you use this work, please cite:
 
 **Hitwanshi Dalsania**
 📧 [hitwanshidalsania@gmail.com](mailto:hitwanshidalsania@gmail.com)
-🔗 [LinkedIn](www.linkedin.com/in/hitwanshi-dalsania) | [GitHub](https://github.com/hitwanshi12)
+🔗 [LinkedIn](https://www.linkedin.com/in/hitwanshi-dalsania/) | [GitHub](https://github.com/hitwanshi12)
 
 ---
