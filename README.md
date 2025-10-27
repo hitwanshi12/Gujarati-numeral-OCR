@@ -60,7 +60,7 @@ Input Image → Preprocessing → Feature Extraction (VGG16, VGG19, ResNet50, In
 
 **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/hitwanshi12/gujarati-numeral-ocr.git
+git clone https://github.com/hitwanshi12/Gujarati-numeral-OCR.git
 cd gujarati-numeral-ocr
 ```
 **2️⃣ Training**
